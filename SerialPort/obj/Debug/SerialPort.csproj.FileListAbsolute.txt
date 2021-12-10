@@ -1,0 +1,8 @@
+C:\Users\Lenovo\OneDrive\Belgeler\SharpDevelop Projects\SerialPort\SerialPort\bin\Debug\SerialPort.exe.config
+C:\Users\Lenovo\OneDrive\Belgeler\SharpDevelop Projects\SerialPort\SerialPort\bin\Debug\SerialPort.exe
+C:\Users\Lenovo\OneDrive\Belgeler\SharpDevelop Projects\SerialPort\SerialPort\bin\Debug\SerialPort.pdb
+C:\Users\Lenovo\OneDrive\Belgeler\SharpDevelop Projects\SerialPort\SerialPort\obj\Debug\SerialPort.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Belgeler\SharpDevelop Projects\SerialPort\SerialPort\obj\Debug\SerialPort.exe
+C:\Users\Lenovo\OneDrive\Belgeler\SharpDevelop Projects\SerialPort\SerialPort\obj\Debug\SerialPort.pdb
+C:\Users\Lenovo\OneDrive\Belgeler\SharpDevelop Projects\SerialPort\SerialPort\obj\Debug\SerialPort.MainForm.resources
+C:\Users\Lenovo\OneDrive\Belgeler\SharpDevelop Projects\SerialPort\SerialPort\obj\Debug\SerialPort.csproj.GenerateResource.Cache
